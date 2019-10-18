@@ -9736,3 +9736,7 @@ header.masthead h1 {
   -o-transition: -o-transform 2.0s ease-in-out !important;
   transition: transform 2.0s ease-in-out !important;
 }
+.link {
+  color: #007bff;
+  text-decoration: underline;
+}
