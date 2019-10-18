@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="905a43c6-c05b-491f-9a68-f6f04990bebb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/creative.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/creative.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/creative.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/creative.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/creative.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,17 +17,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="228" column="77" lean-forward="true" selection-start-line="228" selection-start-column="77" selection-end-line="228" selection-end-column="77" />
+            <state relative-caret-position="391">
+              <caret line="236" column="18" selection-start-line="236" selection-start-column="18" selection-end-line="236" selection-end-column="18" />
               <folding>
                 <element signature="e#9336#10609#0" />
                 <element signature="n#div#4;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#10638#14484#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -143,6 +145,7 @@
         <option value="$PROJECT_DIR$/css/creative.css" />
         <option value="$PROJECT_DIR$/css/creative.min.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -231,16 +234,15 @@
       <option name="presentableId" value="Default" />
       <updated>1570920692321</updated>
       <workItem from="1570920696964" duration="23879000" />
-      <workItem from="1571347121217" duration="10950000" />
+      <workItem from="1571347121217" duration="11965000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34829000" />
+    <option name="totallyTimeSpent" value="35844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17228661" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -329,9 +331,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -411,14 +410,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="228" column="77" lean-forward="true" selection-start-line="228" selection-start-column="77" selection-end-line="228" selection-end-column="77" />
+        <state relative-caret-position="391">
+          <caret line="236" column="18" selection-start-line="236" selection-start-column="18" selection-end-line="236" selection-end-column="18" />
           <folding>
             <element signature="e#9336#10609#0" />
             <element signature="n#div#4;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="e#10638#14484#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
