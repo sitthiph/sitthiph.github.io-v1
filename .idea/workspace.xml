@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="905a43c6-c05b-491f-9a68-f6f04990bebb" name="Default Changelist" comment="" />
+    <list default="true" id="905a43c6-c05b-491f-9a68-f6f04990bebb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/fullsize/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/portfolio/thumbnails/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -12,70 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2720">
-              <caret line="225" column="43" lean-forward="true" selection-start-line="225" selection-start-column="43" selection-end-line="225" selection-end-column="43" />
-              <folding>
-                <element signature="e#17897#17903#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/creative.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2806">
-              <caret line="9381" column="15" selection-start-line="9381" selection-start-column="15" selection-end-line="9381" selection-end-column="15" />
-              <folding>
-                <element signature="e#29693#29927#2" expanded="true" />
-                <element signature="e#30826#30979#1" expanded="true" />
-                <element signature="e#31021#31255#1" expanded="true" />
-                <element signature="e#34620#34896#2" expanded="true" />
-                <element signature="e#35823#35976#1" expanded="true" />
-                <element signature="e#36018#36294#1" expanded="true" />
-                <element signature="e#69475#69662#2" expanded="true" />
-                <element signature="e#69917#70053#2" expanded="true" />
-                <element signature="e#70506#70639#2" expanded="true" />
-                <element signature="e#71968#72121#1" expanded="true" />
-                <element signature="e#85303#85533#2" expanded="true" />
-                <element signature="e#86545#86781#2" expanded="true" />
-                <element signature="e#120680#120857#2" expanded="true" />
-                <element signature="e#120912#121089#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/creative.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="9" column="3089" selection-start-line="9" selection-start-column="3089" selection-end-line="9" selection-end-column="3089" />
-              <folding>
-                <element signature="e#23081#23315#2" expanded="true" />
-                <element signature="e#24119#24272#1" expanded="true" />
-                <element signature="e#24312#24546#1" expanded="true" />
-                <element signature="e#27552#27828#2" expanded="true" />
-                <element signature="e#28660#28813#1" expanded="true" />
-                <element signature="e#28853#29129#1" expanded="true" />
-                <element signature="e#57665#57852#2" expanded="true" />
-                <element signature="e#58081#58217#2" expanded="true" />
-                <element signature="e#58620#58753#2" expanded="true" />
-                <element signature="e#59895#60048#1" expanded="true" />
-                <element signature="e#70915#71145#2" expanded="true" />
-                <element signature="e#72012#72248#2" expanded="true" />
-                <element signature="e#100357#100534#2" expanded="true" />
-                <element signature="e#100580#100757#2" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -100,6 +44,7 @@
       <find>href=&quot;img/portfolio/fullsiz</find>
       <find>port</find>
       <find>it</find>
+      <find>certi</find>
     </findStrings>
     <replaceStrings>
       <replace>175ecf</replace>
@@ -133,6 +78,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -153,6 +99,12 @@
             <path>
               <item name="sitthiph.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="sitthiph.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="portfolio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sitthiph.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sitthiph.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="vendor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -165,7 +117,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -209,16 +160,19 @@
       <updated>1570920692321</updated>
       <workItem from="1570920696964" duration="23879000" />
       <workItem from="1571347121217" duration="11965000" />
+      <workItem from="1574206516608" duration="2468000" />
+      <workItem from="1574531761420" duration="1258000" />
+      <workItem from="1574538526569" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36911000" />
+    <option name="totallyTimeSpent" value="40678000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23987207" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25053304" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -345,16 +299,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2720">
-          <caret line="225" column="43" lean-forward="true" selection-start-line="225" selection-start-column="43" selection-end-line="225" selection-end-column="43" />
-          <folding>
-            <element signature="e#17897#17903#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -364,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/creative.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2806">
+        <state relative-caret-position="215763">
           <caret line="9381" column="15" selection-start-line="9381" selection-start-column="15" selection-end-line="9381" selection-end-column="15" />
           <folding>
             <element signature="e#29693#29927#2" expanded="true" />
@@ -404,6 +348,16 @@
             <element signature="e#72012#72248#2" expanded="true" />
             <element signature="e#100357#100534#2" expanded="true" />
             <element signature="e#100580#100757#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <element signature="e#11142#12641#0" />
           </folding>
         </state>
       </provider>
