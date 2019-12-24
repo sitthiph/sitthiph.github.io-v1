@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="905a43c6-c05b-491f-9a68-f6f04990bebb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3887">
-              <caret line="169" column="69" lean-forward="true" selection-start-line="169" selection-start-column="69" selection-end-line="169" selection-end-column="69" />
+            <state relative-caret-position="23">
+              <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -109,6 +109,7 @@
       <find>port</find>
       <find>it</find>
       <find>certi</find>
+      <find>current</find>
     </findStrings>
     <replaceStrings>
       <replace>175ecf</replace>
@@ -237,12 +238,13 @@
       <workItem from="1574531761420" duration="1258000" />
       <workItem from="1574538526569" duration="41000" />
       <workItem from="1576493395413" duration="2181000" />
-      <workItem from="1577215743762" duration="1044000" />
+      <workItem from="1577215743762" duration="1650000" />
+      <workItem from="1577229725082" duration="16000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46359000" />
+    <option name="totallyTimeSpent" value="46981000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,9 +257,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17430703" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17590618" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -439,8 +440,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3887">
-          <caret line="169" column="69" lean-forward="true" selection-start-line="169" selection-start-column="69" selection-end-line="169" selection-end-column="69" />
+        <state relative-caret-position="23">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
