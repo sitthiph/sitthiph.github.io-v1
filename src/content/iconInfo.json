@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "name": "HTML5",
+      "logo": "fa-html5",
+      "muteText": ""
+    },
+    {
+      "name": "CSS3",
+      "logo": "fa-css3-alt",
+      "muteText": ""
+    },
+    {
+      "name": "Bootstrap",
+      "logo": "fa-bootstrap",
+      "muteText": ""
+    },
+    {
+      "name": "JQuery",
+      "logo": "icon-jquery",
+      "muteText": ""
+    },
+    {
+      "name": "Javascript ES6",
+      "logo": "fa-js-square",
+      "muteText": ""
+    },
+    {
+      "name": "React",
+      "logo": "fa-react",
+      "muteText": ""
+    },
+    {
+      "name": "Node.js",
+      "logo": "fa-node-js",
+      "muteText": ""
+    },
+    {
+      "name": "MongoDB",
+      "logo": "icon-mongodb",
+      "muteText": ""
+    },
+    {
+      "name": "GraphQL",
+      "logo": "icon-graphql",
+      "muteText": ""
+    },
+    {
+      "name": "Java",
+      "logo": "fa-java",
+      "muteText": ""
+    },
+    {
+      "name": "MySQL",
+      "logo": "icon-mysql-alt",
+      "muteText": ""
+    },
+    {
+      "name": "Gatsby",
+      "logo": "fa-html5",
+      "muteText": "Currently Learning"
+    }
+  ]
+}
