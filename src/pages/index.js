@@ -1,26 +1,41 @@
 import React from "react"
 import {graphql, useStaticQuery} from "gatsby"
+import Header from "../components/index/header"
 import Icon from "../components/index/icon"
+import Portfolio from "../components/index/portfolio"
+import Footer from "../components/index/footer"
 
 const IndexPage = () => {
 
-  const data = useStaticQuery(graphql`query {
-      allContentJson {
+  const query = useStaticQuery(graphql`
+      query {
+      allIconJson {
           edges {
               node {
-                  data {
-                      name
+                  iconData {
                       logo
                       muteText
+                      name
                   }
               }
           }
       }
-  }`)
-  console.log(data.allContentJson.edges[0].node.data);
+          allProjectJson {
+              nodes {
+                  projectData {
+                      category
+                      deployedLink
+                      githubLink
+                      imgSrc
+                      projectName
+                  }
+              }
+          }
+  }`);
 
   return (
       <React.Fragment>
+        <Header />
         <section className="masthead">
           <div className="container h-100">
             <div className="row h-100 align-items-center justify-content-center text-center">
@@ -45,7 +60,7 @@ const IndexPage = () => {
               technology/framework.
             </p>
             <div className="row">
-              {data.allContentJson.edges[0].node.data.map((object) => {
+              {query.allIconJson.edges[0].node.iconData.map((object) => {
                 return(<Icon name={object.name} logo={object.logo} muteText={object.muteText} />)
               })}
             </div>
@@ -55,6 +70,55 @@ const IndexPage = () => {
             </div>
           </div>
         </section>
+        <section id="portfolio" className="page-section bg-primary pb-0">
+          <div className="container-fluid p-0">
+            <div className="row justify-content-center pb-5">
+              <div className="col-lg-8 text-center">
+                <h2 className="text-white mt-0">Projects</h2>
+                <hr className="divider light my-4" />
+                  <p className="text-white-50 mb-4">Throughout my coding journey to becoming a better programmer, I
+                    realized
+                    that the best way to learn something is to implement it, use it, and make it yours.<br/>This is where
+                      my projects come in. Creating projects has always been my favorite part of programming.
+                      <br/>Like Seriously, why learn something if you're not going to use it, right?
+                  </p>
+              </div>
+            </div>
+            <div className="row no-gutters">
+              {query.allProjectJson.nodes[0].projectData.map((object) => {
+                return (<Portfolio projectName={object.projectName} category={object.category}
+                deployedLink={object.deployedLink} githubLink={object.githubLink} imgSrc={object.imgSrc}/>)
+              })}
+            </div>
+          </div>
+        </section>
+        <section className="page-section" id="contact">
+          <div className="container">
+            <div className="row justify-content-center">
+              <div className="col-lg-8 text-center">
+                <h2 className="mt-0">Why Don't We Get In Touch?</h2>
+                <hr className="divider my-4" />
+                  <p className="text-muted mb-5">Don't be shy! Shoot me an email or connect with me on LinkedIn and I'll
+                    get back to you as soon as possible :)</p>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
+                <i className="fas fa-envelope fa-3x mb-3 text-muted" />
+                <a className="d-block" href="mailto:sam.itthiphinyo@gmail.com">sam.itthiphinyo@gmail.com</a>
+              </div>
+              <div className="col-lg-4 mr-auto text-center">
+                <i className="fab fa-github-square fa-3x mb-3 text-muted" />
+                <div><a href="https://github.com/sitthiph" target="_blank">@sitthiph</a></div>
+              </div>
+              <div className="col-lg-4 mr-auto text-center">
+                <i className="fab fa-linkedin fa-3x mb-3 text-muted" />
+                <div><a href="https://www.linkedin.com/in/sam-itthiphinyo/" target="_blank">@Sam_Itthiphinyo</a></div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <Footer />
       </React.Fragment>
   )
 }

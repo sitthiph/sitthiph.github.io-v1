@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="471947d9-ecbb-407c-ba3a-7b3e26f614fd" name="Default Changelist" comment="" />
+    <list default="true" id="471947d9-ecbb-407c-ba3a-7b3e26f614fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/content/iconInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/index/icon/iconInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +21,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YOs2VVBU2bQuwUbIdtc4lYH3Am" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,11 +35,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\node_modules\prettier" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\src\data\index\project" />
+      <recent name="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\src\data\index" />
+      <recent name="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\src\data\icon" />
       <recent name="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\src" />
       <recent name="C:\Users\sittiphinyo\Documents\Github\sitthiph.github.io\components\index" />
     </key>
@@ -74,6 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1582824770098</updated>
       <workItem from="1582824783571" duration="13191000" />
+      <workItem from="1582905537992" duration="5802000" />
     </task>
     <servers />
   </component>
@@ -81,26 +97,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1646" y="-769" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582836430296">
+    <state x="1646" y="-769" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582906233880">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="1646" y="-769" key="#com.intellij.fileTypes.FileTypeChooser/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582836430296" />
-    <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1582837220152">
+    <state x="1646" y="-769" key="#com.intellij.fileTypes.FileTypeChooser/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582906233880" />
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1582905515293">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="261" key="GridCell.Tab.0.bottom/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582837220152" />
-    <state width="1899" height="261" key="GridCell.Tab.0.center" timestamp="1582837220152">
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582905515293" />
+    <state width="1899" height="261" key="GridCell.Tab.0.center" timestamp="1582905515292">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="261" key="GridCell.Tab.0.center/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582837220152" />
-    <state width="1899" height="261" key="GridCell.Tab.0.left" timestamp="1582837220152">
+    <state width="1899" height="261" key="GridCell.Tab.0.center/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582905515292" />
+    <state width="1899" height="261" key="GridCell.Tab.0.left" timestamp="1582905515292">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="261" key="GridCell.Tab.0.left/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582837220152" />
-    <state width="1899" height="261" key="GridCell.Tab.0.right" timestamp="1582837220152">
+    <state width="1899" height="261" key="GridCell.Tab.0.left/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582905515292" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right" timestamp="1582905515292">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1899" height="261" key="GridCell.Tab.0.right/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582837220152" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right/949.-1080.1920.1040/-971.-1092.1920.1040/0.0.1920.1040@949.-1080.1920.1040" timestamp="1582905515292" />
     <state x="1565" y="-299" key="run.anything.popup" timestamp="1582841775721">
       <screen x="949" y="-1080" width="1920" height="1040" />
     </state>

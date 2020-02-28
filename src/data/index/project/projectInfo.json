@@ -1,0 +1,46 @@
+{
+  "projectData": [
+    {
+      "projectName": "Binder",
+      "category": "Javascript, NodeJS, React, Ant Design, Bcrypt, APIs",
+      "deployedLink": "https://obscure-ridge-40329.herokuapp.com",
+      "githubLink": "https://github.com/sitthiph/Binder/",
+      "imgSrc": "img/portfolio/thumbnails/binder.png"
+    },
+    {
+      "projectName": "League of Clicky",
+      "category": "Javascript, React, Games, Bootstrap",
+      "deployedLink": "https://leagueofclicky.herokuapp.com",
+      "githubLink": "https://github.com/sitthiph/Leauge-of-Clicky/",
+      "imgSrc": "img/portfolio/thumbnails/league_of_clicky.png"
+    },
+    {
+      "projectName": "Friend Finder",
+      "category": "Javascript, GraphQL, NodeJS",
+      "deployedLink": "https://hes-friendfinder.herokuapp.com/",
+      "githubLink": "https://github.com/sitthiph/FriendFinder/",
+      "imgSrc": "img/portfolio/thumbnails/friend_finder.png"
+    },
+    {
+      "projectName": "Crystals Collector",
+      "category": "Javascript, JQuery, Bootstrap",
+      "deployedLink": "https://sitthiph.github.io/Crystals-Collector/",
+      "githubLink": "https://github.com/sitthiph/Crystals-Collector/",
+      "imgSrc": "img/portfolio/thumbnails/Crystals Collector.png"
+    },
+    {
+      "projectName": "Totally Trivial Trivia",
+      "category": "Javascript, Bootstrap",
+      "deployedLink": "https://sitthiph.github.io/Trivia-Game/",
+      "githubLink": "https://github.com/sitthiph/Trivia-Game/",
+      "imgSrc": "img/portfolio/thumbnails/Totally Trivial Trivia.png"
+    },
+    {
+      "projectName": "Word Guess Game",
+      "category": "Javascript, Bootstrap",
+      "deployedLink": "https://sitthiph.github.io/Word-Guess-Game/",
+      "githubLink": "https://github.com/sitthiph/Word-Guess-Game/",
+      "imgSrc": "img/portfolio/thumbnails/2.jpg"
+    }
+  ]
+}

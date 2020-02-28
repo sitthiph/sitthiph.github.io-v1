@@ -5,6 +5,8 @@
  */
 
 module.exports = {
+  siteMetadata: {
+  },
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -17,7 +19,7 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `./src/content/`,
+        path: `./src/data/`,
       },
     },
   ]
