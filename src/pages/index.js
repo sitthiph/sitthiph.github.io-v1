@@ -4,6 +4,7 @@ import Header from "../components/index/header"
 import Icon from "../components/index/icon"
 import Portfolio from "../components/index/portfolio"
 import Footer from "../components/index/footer"
+import "../style/style.css"
 
 const IndexPage = () => {
 
@@ -47,6 +48,28 @@ const IndexPage = () => {
               <div className="col-lg-8 align-self-baseline">
                 <a className="btn btn-primary btn-xl js-scroll-trigger" href="#about">What about it?</a>
               </div>
+            </div>
+          </div>
+        </section>
+        <section className="page-section bg-primary" id="about">
+          <div className="container">
+            <div className="row justify-content-center">
+              <div className="col-lg-4">
+                <img src="./img/personal-icon.jpg" alt="A photo of me" className="img-thumbnail" />
+              </div>
+              <div className="col-lg-8 text-center p-5">
+                <h2 className="text-white mt-0">A little bit about me...</h2>
+                <hr className="divider light my-4" />
+                  <p className="text-white-50 mb-4">I am a certified Full-Stack Web Developer from the Harvard
+                    University
+                    Continuing Education Program. Passionate about problem-solving and planning complex software
+                    application solutions. Excited to collaborate in a team to produce a high-quality application.
+                  </p>
+              </div>
+            </div>
+            <div className="row justify-content-center">
+              <a className="btn btn-light btn-xl js-scroll-trigger mt-lg-5" href="#services">So, how much do you
+                know?</a>
             </div>
           </div>
         </section>
