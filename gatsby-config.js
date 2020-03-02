@@ -6,6 +6,7 @@
 
 module.exports = {
   siteMetadata: {
+    title: `Sam I. Full-Stack Developer`
   },
   plugins: [
     {
@@ -22,5 +23,6 @@ module.exports = {
         path: `./src/data/`,
       },
     },
+    'gatsby-plugin-react-helmet'
   ]
 }

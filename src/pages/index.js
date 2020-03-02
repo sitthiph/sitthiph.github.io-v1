@@ -1,10 +1,9 @@
 import React from "react"
 import {graphql, useStaticQuery} from "gatsby"
-import Header from "../components/index/header"
+import Header from "../components/header"
 import Icon from "../components/index/icon"
 import Portfolio from "../components/index/portfolio"
 import Footer from "../components/index/footer"
-import "../style/style.css"
 
 const IndexPage = () => {
 
@@ -36,7 +35,7 @@ const IndexPage = () => {
 
   return (
       <React.Fragment>
-        <Header />
+        <Header title="Home" />
         <section className="masthead">
           <div className="container h-100">
             <div className="row h-100 align-items-center justify-content-center text-center">
