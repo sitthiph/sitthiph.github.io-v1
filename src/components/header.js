@@ -25,11 +25,6 @@ const Header = (props) => {
           <script src="https://code.iconify.design/1/1.0.3/iconify.min.js" />
               <link href="https://fonts.googleapis.com/css?family=Merriweather+Sans:400,700" rel="stylesheet" />
                 <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic' rel='stylesheet' type='text/css' />
-                <script src="../vendor/jquery/jquery.min.js" />
-                <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js" />
-                <script src="../vendor/jquery-easing/jquery.easing.min.js" />
-                <script src="../vendor/magnific-popup/jquery.magnific-popup.min.js" />
-                <script src="../js/creative.min.js" />
       </Helmet>
       <nav className="navbar navbar-expand-lg navbar-light fixed-top py-3" id="mainNav">
         <div className="container">
