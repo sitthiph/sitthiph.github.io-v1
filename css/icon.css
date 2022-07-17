@@ -29,3 +29,11 @@
   background-repeat: no-repeat;
   filter: brightness(0) saturate(100%) invert(73%) sepia(55%) saturate(6281%) hue-rotate(334deg) brightness(94%) contrast(103%);
 }
+
+.ico-golang {
+  display: inline-block;
+  width: 4em; height: 4em;
+  background-image: url('../img/svg/go-logo-black.svg');
+  background-repeat: no-repeat;
+  filter: invert(73%) sepia(55%) saturate(6281%) hue-rotate(334deg) brightness(94%) contrast(103%);
+}
